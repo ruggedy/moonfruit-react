@@ -3,6 +3,8 @@ import ReactDOM from 'react-dom';
 import { AppContainer } from 'react-hot-loader';
 
 import Root from './config/Root';
+import './assets/scss/carousel-text.scss';
+import './assets/scss/main.scss';
 
 const render = (Component) => {
   ReactDOM.render(

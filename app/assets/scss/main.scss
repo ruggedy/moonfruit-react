@@ -3,3 +3,14 @@ $color: #262828;
 body {
   color: $color;
 }
+
+.carousel-section {
+    display: flex;
+    flex: 1;
+    padding: 20px;
+}
+
+.left-side {
+    width: 40%;
+    padding-right: 10px;
+}

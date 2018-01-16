@@ -1,0 +1,27 @@
+.carousel-text {
+    display: flex;
+    flex-direction: column;
+    height: auto;
+}
+
+.carousel-text-header {
+    display: flex;
+    font-size: 20px;
+    // align-items: flex-start;
+    // justify-content: flex-start;
+    white-space: pre-line;
+    :first-child {
+        font-size: 30px;
+        vertical-align: top;
+    }
+    :nth-child(2){
+        flex: auto;
+        margin-left: 5px;
+    }
+}
+
+.carousel-text-body {
+    overflow: hidden;
+    flex: 0;
+    height: auto;
+}

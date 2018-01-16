@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.2" baseProfile="tiny" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+	 x="0px" y="0px" viewBox="0 0 611 851" xml:space="preserve">
+<g>
+	<image width="611" height="851" xlink:href="7180D189B9082684.png" >
+	</image>
+	<g>
+		<g>
+			<g>
+				<path fill="#F6F7F7" d="M541.1,27H273.2H87.5c-23.3,0-42.2,18.9-42.2,42.2v693c0,23.3,18.9,42.2,42.2,42.2h453.6
+					c2,0,3.9-0.1,5.8-0.4c20.6-2.8,36.4-20.5,36.4-41.8v-693C583.3,45.9,564.4,27,541.1,27z"/>
+				<image width="606" height="846" xlink:href="7180D189B9082685.png"  transform="matrix(1 0 0 1 11 -6)">
+				</image>
+			</g>
+		</g>
+	</g>
+	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="314.1501" y1="717.9926" x2="314.1501" y2="762.3342">
+		<stop  offset="0" style="stop-color:#DADCDC"/>
+		<stop  offset="1" style="stop-color:#FFFFFF"/>
+	</linearGradient>
+	<circle fill="url(#SVGID_1_)" cx="314.2" cy="751.4" r="21.8"/>
+	<image width="239" height="780" xlink:href="7180D189B9082683.png"  transform="matrix(1 0 0 1 341 30)">
+	</image>
+</g>
+</svg>
